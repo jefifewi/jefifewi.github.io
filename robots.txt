@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://jefifewi.github.io/sitemap/sitemap_index.jefifewi
+Sitemap: https://jefifewi.github.io/uOh/sitemap_index.jefifewi
+Sitemap: https://jefifewi.github.io/niG/sitemap_index.jefifewi
+Sitemap: https://jefifewi.github.io/Tya/sitemap_index.jefifewi
+Sitemap: https://jefifewi.github.io/apS/sitemap_index.jefifewi
+Sitemap: https://jefifewi.github.io/Apa/sitemap_index.jefifewi
+Sitemap: https://jefifewi.github.io/vrK/sitemap_index.jefifewi
+Sitemap: https://jefifewi.github.io/PEV/sitemap_index.jefifewi
+Sitemap: https://jefifewi.github.io/ysX/sitemap_index.jefifewi
+Sitemap: https://jefifewi.github.io/WiK/sitemap_index.jefifewi
+Sitemap: https://jefifewi.github.io/ctk/sitemap_index.jefifewi
+Sitemap: https://jefifewi.github.io/Qbe/sitemap_index.jefifewi
+Sitemap: https://jefifewi.github.io/DiT/sitemap_index.jefifewi
+Sitemap: https://jefifewi.github.io/VTR/sitemap_index.jefifewi
+Sitemap: https://jefifewi.github.io/fCg/sitemap_index.jefifewi
+Sitemap: https://jefifewi.github.io/bpO/sitemap_index.jefifewi
+Sitemap: https://jefifewi.github.io/vFT/sitemap_index.jefifewi
+Sitemap: https://jefifewi.github.io/jUc/sitemap_index.jefifewi
+Sitemap: https://jefifewi.github.io/LlB/sitemap_index.jefifewi
+Sitemap: https://jefifewi.github.io/mjJ/sitemap_index.jefifewi
+Sitemap: https://jefifewi.github.io/fXK/sitemap_index.jefifewi
